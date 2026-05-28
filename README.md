@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Specializing in Computer Vision, passionate about building intelligent systems that transform visual data into actionable insights. With strong expertise in Python and its frameworks, I develop end-to-end solutions including object detection, image processing, and real-time vision applications.<br><br>- Specialized in Object Detection & Video Analytics<br>- Experienced in training and fine-tuning YOLO models<br>- Strong focus on Data Visualization & Analytics<br>- Building end-to-end ML applications with real-world deployment<br>- Continuously learning and improving model performance</p>
+<p align="left">Specializing in Computer Vision and Data Science, passionate about building intelligent systems that transform visual data into actionable insights. With strong expertise in Python and its frameworks, I develop end-to-end solutions including object detection, image processing, and real-time vision applications.<br><br>- Specialized in Object Detection & Video Analytics<br>- Experienced in training and fine-tuning YOLO models<br>- Strong focus on Data Visualization & Analytics<br>- Building end-to-end ML applications with real-world deployment<br>- Continuously learning and improving model performance</p>
 
 ###
 
