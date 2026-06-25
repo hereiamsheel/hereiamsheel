@@ -6,19 +6,19 @@
 
 ###
 
-<p align="left">Specializing in Computer Vision and Data Science, passionate about building intelligent systems that transform visual data into actionable insights. With strong expertise in Python and its frameworks, I develop end-to-end solutions including object detection, image processing, and real-time vision applications.<br><br>- Specialized in Object Detection & Video Analytics<br>- Experienced in training and fine-tuning YOLO models<br>- Strong focus on Data Visualization & Analytics<br>- Building end-to-end ML applications with real-world deployment<br>- Continuously learning and improving model performance</p>
+<p align="left">Specializing in Machine Learning and Data Science, passionate about building intelligent systems that transform visual data into actionable insights. With strong expertise in Python and its frameworks, I develop end-to-end solutions including object detection, image processing, and real-time vision applications.<br><br>- Specialized in Object Detection & Video Analytics<br>- Experienced in training and fine-tuning YOLO models<br>- Strong focus on Data Visualization & Analytics<br>- Building end-to-end ML applications with real-world deployment<br>- Continuously learning and improving model performance</p>
 
 ###
 
-<h3 align="left">💡 What I’m Working On</h3>
+<h3 align="left"> What I’m Working On</h3>
 
 ###
 
-<p align="left">- 📹 Real-time Object Detection Systems<br>- 🦺 PPE Detection using YOLO<br>- 🚀 Deploying apps using Flask & Streamlit</p>
+<p align="left">- Real-time Object Detection Systems<br>-  Model training and evaluation<br>- Deploying apps using Flask & Streamlit</p>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
